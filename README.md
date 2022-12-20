@@ -1,5 +1,11 @@
 # Introduction
 
+
+![Banner](introduce.jpg)
+
+**Offered by: [Nixjs](https://github.com/nixjs)**
+
+
 ## What is Omega Wallet?
 
 A secure blockchain wallet that supports: **APTOS**, **SUI**, **EVM-based** blockchains, DApp, DeFi, and acts as your portal to the Web3 world.
